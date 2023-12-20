@@ -1,14 +1,7 @@
-h1{
-    color: yellowgreen;
-    font-family: 'Courier New', Courier, monospace;
-    background-color: aqua;
-}
-
-body{
-    background-color: goldenrod;
-}
-
-.Hola{
-    background-color: yellowgreen;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.box{
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 1px solid blueviolet;
 }
